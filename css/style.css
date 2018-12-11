@@ -1,0 +1,27 @@
+.section-search input {
+    padding: 3px !important;
+    font-size: 18px !important;
+    width: 90% !important;
+    border: #f4f4f4 3px solid !important;
+    border-radius: 20px !important;
+}
+
+#bar {
+    font-size: 30px !important;
+}
+
+.material-icons {
+    font-size: 30px !important;
+}
+
+.section-follow .fa-2x {
+    margin: 15px !important;
+}
+
+.section-contact .fa-map-marker {
+    margin-right: 40px !important;
+}
+
+.section-contact .fa-phone {
+    font-size: 40px !important;
+}
